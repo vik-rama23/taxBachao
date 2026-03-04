@@ -18,8 +18,6 @@ export default function DownloadReport() {
     const pdf = new jsPDF("p", "mm", "a4");
 
     const imgWidth = 190;
-    const pageHeight = 295;
-
     const imgHeight =
       (canvas.height * imgWidth) / canvas.width;
 
