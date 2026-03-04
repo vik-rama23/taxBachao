@@ -4,8 +4,11 @@ import Navbar from "../../src/components/layout/Navbar";
 import { Providers } from "./store/provider";
 
 export const metadata = {
-  title: "TaxMitra",
+  title: "Tax Bachao",
   description: "Compare tax regimes and optimize savings",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
@@ -18,7 +21,7 @@ export default function RootLayout({
       <body className="bg-gray-100">
         <Providers>
           <Navbar />
-          <main className="max-w-6xl mx-auto px-4 py-8">
+          <main className="max-w-6xl mx-auto py-8">
             {children}
           </main>
         </Providers>

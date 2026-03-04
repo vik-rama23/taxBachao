@@ -1,0 +1,9 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Calculator icon - simplified for favicon -->
+  <rect width="32" height="32" fill="#2563EB" rx="6"/>
+  <path d="M8 10C8 9.45 8.45 9 9 9H23C23.55 9 24 9.45 24 10V22C24 22.55 23.55 23 23 23H9C8.45 23 8 22.55 8 22V10Z" stroke="white" stroke-width="1.5" fill="none"/>
+  <circle cx="11" cy="12" r="1" fill="white"/>
+  <circle cx="19" cy="12" r="1" fill="white"/>
+  <line x1="10" y1="16" x2="22" y2="16" stroke="white" stroke-width="1" stroke-linecap="round"/>
+  <line x1="10" y1="19" x2="22" y2="19" stroke="white" stroke-width="1" stroke-linecap="round"/>
+</svg>

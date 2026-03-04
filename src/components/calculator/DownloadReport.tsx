@@ -25,7 +25,7 @@ export default function DownloadReport() {
 
     pdf.addImage(imgData, "PNG", 10, 10, imgWidth, imgHeight);
 
-    pdf.save("TaxMitra_Report.pdf");
+    pdf.save("TaxBachao_Report.pdf");
   };
 
   return (

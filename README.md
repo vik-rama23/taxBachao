@@ -1,4 +1,4 @@
-# TaxMitra - Tax Calculator UI
+# Tax Bachao - Tax Calculator UI
 
 A modern, responsive tax calculation and regime comparison application built with Next.js, TypeScript, and Tailwind CSS.
 
@@ -128,4 +128,4 @@ MIT
 
 ## Author
 
-Created as a modern tax calculation UI prototype for TaxBachao/TaxMitra application.
+Created as a modern tax calculation UI prototype for TaxBachao application.
